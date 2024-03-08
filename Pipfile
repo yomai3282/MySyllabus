@@ -12,6 +12,8 @@ requests = "*"
 beautifulsoup4 = "*"
 pandas = "*"
 numpy = "*"
+mojimoji = "*"
+pyinstaller = "*"
 
 [dev-packages]
 ipykernel = "*"
